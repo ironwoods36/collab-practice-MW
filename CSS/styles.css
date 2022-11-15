@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+header {
+    background-color: red;
+}
+
+.column-3{
+    display: inline-block;
+    width: 33%;
+}
